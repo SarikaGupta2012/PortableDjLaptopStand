@@ -1,0 +1,15 @@
+.navbar{
+    overflow: hidden;
+    background-color: plum;
+}
+.navbar a{
+    float: left;
+    color: white;
+    font-size: 20px;
+    padding: 20px;
+    text-align: center;
+}
+.navbar a:hover{
+    background-color: white;
+    color: plum;
+}
